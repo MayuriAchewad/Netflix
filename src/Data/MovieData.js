@@ -1,0 +1,100 @@
+export const Movies = [
+    {
+        name:'Army of the dead',
+        desc:'bkj hjed wjfdnm edjcfenme',
+        titleImage:'deepika.jpg',
+        image:'2a.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hr',
+        video:'',
+        rate:3.4,
+        reviews:23
+    },
+    {
+        name:'The Conjuring',
+        desc:'bkj hjed wjfdnm edjcfenme',
+        titleImage:'prabhas.jpg',
+        image:'1a.jpg',
+        category:'Thriller',
+        language:'Chinese',
+        year:'1999',
+        time:'4hr',
+        video:'',
+        rate:4.9,
+        reviews:233
+    },
+    {
+        name:'12th Fail',
+        desc:'bkj hjed wjfdnm edjcfenme',
+        titleImage:'rutik.jpeg',
+        image:'7a.jpg',
+        category:'Thriller',
+        language:'Chinese',
+        year:'1999',
+        time:'4hr',
+        video:'',
+        rate:5,
+        reviews:100
+    },
+    {
+        name:' My Favorite Girlfriend',
+        desc:'bkj hjed wjfdnm edjcfenme',
+        titleImage:'deepika.jpg',
+        image:'3a.jpg',
+        category:'Adventure',
+        language:'Korean',
+        year:'2000',
+        time:'11hr',
+        video:'',
+        rate:2.5,
+        reviews:2
+    },
+    {
+        name:'Lets Be a crops',
+        desc:'bkj hjed wjfdnm edjcfenme',
+        titleImage:'prabhas.jpg',
+        image:'4a.jpg',
+        category:'Musicals',
+        language:'English',
+        year:'2022',
+        time:'5hr',
+        video:'',
+        rate:1.5,
+        reviews:6
+    },
+    {
+        name:'Sairat',
+        desc:'bkj hjed wjfdnm edjcfenme',
+        titleImage:'prabhas.jpg',
+        image:'5a.jpeg',
+        category:'Romantic',
+        language:'Marathi',
+        year:'2017',
+        time:'2hr',
+        video:'',
+        rate:5,
+        reviews:56
+    },
+    {
+        name:'Legend of the seeker',
+        desc:'bkj hjed wjfdnm edjcfenme',
+        titleImage:'rutik.jpeg',
+        image:'6a.jpg',
+        category:'Horror',
+        language:'Swahili',
+        year:'2012',
+        time:'19hr',
+        video:'',
+        rate:4.5,
+        reviews:35
+    },
+]
+
+export const UserData=[
+    {image:"1a.jpg" , fullName:"Ranvir Kapoor"},
+    {image:"2a.jpg" , fullName:"Kareena Kapoor"},
+    {image:"3a.jpg" , fullName:"Shahid Kapoor"},
+    {image:"4a.jpg" , fullName:"Alia Kapoor"},
+]
